@@ -14,8 +14,8 @@ export class AppComponent {
     // { title: 'Spam', url: '/folder/spam', icon: 'warning' },
     { title: 'หน้าแรก', url: 'home', icon: 'home' },
     { title: 'ประวัติส่วนตัว', url: '/about', icon: 'person' },
+    // { title: 'ติดต่อ', url: '/contact', icon: 'mail' },
     
   ];
-  public labels = [''];
   constructor() { }
 }
